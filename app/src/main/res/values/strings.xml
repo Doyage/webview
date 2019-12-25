@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">webViewTest</string>
+    <string name="default_notification_channel_id" translatable="false">my_app_fcm_default_channel</string>
+    <string name="fl_chooser">File Chooser</string>
+</resources>
